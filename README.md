@@ -43,23 +43,7 @@ python manage.py runserver
 # Visit: http://127.0.0.1:8000/me
 ```
 
-If you're using Command Prompt (cmd.exe) on Windows, activate the venv with:
-
-```cmd
-venv\Scripts\activate.bat
-```
-
-## Quick start (macOS / Linux)
-
-```bash
-git clone https://github.com/<your-username>/profile-api.git
-cd profile-api
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
-# Visit: http://127.0.0.1:8000/me
-```
+ 
 
 ## Project structure
 
